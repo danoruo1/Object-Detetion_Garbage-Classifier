@@ -72,7 +72,8 @@ waste-classifier-project/
 ## Steps to Test Our Model in Real Time
 ### Install Dependencies
 - **pip install requirements.txt**
-
+- **installDatasets_configfiles.py**
+   
 ### Unzip the Datasets/Configurations For Detection Model
 
 - **unzip -r originalImages.zip**
